@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/saurabhaz400/Space%20-%20Game%20-%20Web%20-%20Unit%20tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/saurabhaz400/Space%20-%20Game%20-%20Web%20-%20Unit%20tests/_build/latest?definitionId=9&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-srb&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-srb)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
